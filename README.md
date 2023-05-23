@@ -16,7 +16,9 @@ Model that can predict what kind of food (in 3 categories) in the image. Also th
 ### GUI
 
 Пользовательский интерфейс реализован в фреймворке TKinter. Представляет из себя окно в котором предлагается выбрать изображение из вашего локального хранилища 
-![gui_main.PNG](attachment:gui_main.PNG)
+
+![gui_main](https://github.com/Rost-Korol/pizza-sushi-steak-classifier/assets/91683515/1e05e6a7-e1c5-4892-a584-75fa15d460c3)
+
 Затем после нажатия кнопки predict 
 
 ![with_image](https://github.com/Rost-Korol/pizza-sushi-steak-classifier/assets/91683515/388846ef-fcdb-4a0d-b37c-b8c7ab16f965)
